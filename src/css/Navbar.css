@@ -1,0 +1,22 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aqua;
+    width: 100%;
+}
+.navbar .navigation ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.links li {
+   list-style: none;   
+    margin: auto 10px;
+}
+.profile{
+    margin: auto 10px;
+}
+.links Link{
+    text-decoration: none;
+}

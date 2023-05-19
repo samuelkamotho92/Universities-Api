@@ -1,0 +1,9 @@
+.footer{
+    margin-top: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.footer .logo{
+    margin-right: 10px;
+}
